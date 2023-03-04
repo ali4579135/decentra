@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black !important;
+}
+.nav-link{
+    color: white ;
+}
+.nav-link:hover{
+     color: #D30A2E;
+}
+
+span{
+    color:#D30A2E ;
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+}
+.p{
+    color: #D30A2E;
+}
+.bt1{
+   background: linear-gradient(#F57009,#D30A2E);
+    color: white;
+}
+.bt2{
+    border: 2px solid #D30A2E;
+     color: white;
+ }
+ .bt2:hover{
+    background: linear-gradient(#F57009,#D30A2E);
+    color: white;
+
+}
+
+/* second section  */
+.in{
+    color: #D30A2E;
+}
+.top{
+    margin-top: -5rem;
+}
+.card-title{
+    font-size: 30px;
+    font-family: 'Abril Fatface', cursive;
+    color: #D30A2E;
+}
+.section-5 .card{
+height: 150px;
+border-radius: 20px;
+text-align: center;
+}
+.section-5 .card p{
+    font-size: 18px;
+    margin-top: 6px;
+}
+.co-7 .se{
+    text-align: center;
+    
+}
+.se-8 .bd-8{
+    height: 600px;
+}
+.card-body{
+    border: none;
+    border-radius: 10px;
+}
+.li{
+    width: 20%;
+    background-color: #D30A2E;
+    height: 3px;
+    text-align: center;
+    margin-top: 50px;
+}
+.io{
+    width: 18px;
+    height: 18px;
+    background-color: #D30A2E;
+    border-radius: 50%;
+    margin-left: 235px;
+}
+.nav{
+    background-color: white;
+}
+.fixed-top{
+    background-color: black;
+}
+.ma{
+    margin-top: 180px;
+}
+
+
+
+@media screen and(max-width:991px){
+    .mb{
+        margin-bottom: 15px !important;
+    }
+}
+
